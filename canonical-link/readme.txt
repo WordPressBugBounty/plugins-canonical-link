@@ -1,11 +1,11 @@
 === Canonical Link ===
 
-Contributors: bhadaway
-Donate link: https://calmestghost.com/donate
-Plugin link: https://bryanhadaway.com/super-simple-dynamic-canonical-link-code/
+Contributors: webguyio
+Donate link: https://webguy.io/donate
+Plugin link: https://webguy.io/blog/super-simple-dynamic-canonical-link-code/
 Tags: canonical, canonicalization, clean url, seo, seo-friendly, user-friendly, search engine optimization, google
 Requires at least: 5.0
-Tested up to: 6.3
+Tested up to: 6.8
 Stable tag: 1.6
 License: Public Domain
 License URI: https://wikipedia.org/wiki/Public_domain
@@ -13,6 +13,8 @@ License URI: https://wikipedia.org/wiki/Public_domain
 Adds the canonical link to your site (https://wikipedia.org/wiki/Canonical_link_element). Activate and then set your permalinks to "Post name" under Settings > Permalinks. That's it. Verify that it's working correctly with the Firefox add-on: https://addons.mozilla.org/addon/canonical-link/.
 
 == Description ==
+
+[💬 Ask Question](https://github.com/webguyio/support) | [📧 Email Me](mailto:webguywork@gmail.com)
 
 Adds the canonical link to your site ([Learn More](https://wikipedia.org/wiki/Canonical_link_element)).
 

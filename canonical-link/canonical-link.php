@@ -1,12 +1,12 @@
 <?php
 /*
 Plugin Name: Canonical Link
-Plugin URI: https://bryanhadaway.com/super-simple-dynamic-canonical-link-code/
+Plugin URI: https://webguy.io/blog/super-simple-dynamic-canonical-link-code/
 Description: Adds the canonical link to your site (https://wikipedia.org/wiki/Canonical_link_element). Activate and then set your permalinks to "Post name" under Settings > Permalinks. That's it. Verify that it's working correctly with the Firefox add-on: https://addons.mozilla.org/addon/canonical-link/.
 Version: 1.6
 Requires at least: 5.0
-Author: Bryan Hadaway
-Author URI: https://calmestghost.com/
+Author: Web Guy
+Author URI: https://webguy.io/
 License: Public Domain
 License URI: https://wikipedia.org/wiki/Public_domain
 Text Domain: canonica-link
