@@ -3,14 +3,14 @@
 Contributors: webguyio
 Donate link: https://webguy.io/donate
 Plugin link: https://webguy.io/blog/super-simple-dynamic-canonical-link-code/
-Tags: canonical, canonicalization, clean url, seo, seo-friendly, user-friendly, search engine optimization, google
+Tags: canonical, canonicalization, clean url, seo, search engines
 Requires at least: 5.0
-Tested up to: 6.8
-Stable tag: 1.6
-License: Public Domain
-License URI: https://wikipedia.org/wiki/Public_domain
+Tested up to: 6.9
+Stable tag: 1.7
+License: CC0
+License URI: https://creativecommons.org/public-domain/cc0/
 
-Adds the canonical link to your site (https://wikipedia.org/wiki/Canonical_link_element). Activate and then set your permalinks to "Post name" under Settings > Permalinks. That's it. Verify that it's working correctly with the Firefox add-on: https://addons.mozilla.org/addon/canonical-link/.
+Adds the canonical link to your site.
 
 == Description ==
 
@@ -51,6 +51,9 @@ You will also need to update your permalinks (if you haven't already), which wil
 * Click "**Save Changes**" and you're done
 
 == Changelog ==
+
+= 1.7 =
+* Minor improvements
 
 = 1.6 =
 * Minor code cleanup
